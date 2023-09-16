@@ -229,6 +229,42 @@ Help me write a content calendar
 Repeat using https://bard.google.com
 
 
+## Writing Social Media Posts
+
+* http://chat.openai.com
+
+Sample prompt:<br>
+Create a facebook post on the latest trends in beach wear. Make it fun
+and inviting.
+
+Sample refinement:<br>
+Good. Let’s create the post for Twitter.
+
+Sample refinement:<br>
+Good. Let’s create the post for Instagram.
+
+Sample refinement:<br>
+Make it shorter. Provide suggestion for video or photo to go with the
+post.
+
+## Creating the photo suggested
+
+* https://www.bing.com/chat
+
+Sample prompt:<b>
+create a realistic photo of A stunning beach backdrop with a fashionable beachwear ensemble,
+showcasing bold prints. Add a splash of fun and personality!
+
+## Vlog
+
+* https://bard.google.com
+
+Sample prompt:<br>
+create a vlog script for a 2 minutes post on bold print trend in beach
+wear
+
+
+
 
 ---
 # Topic 5
