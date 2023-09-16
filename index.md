@@ -52,6 +52,32 @@ Midjourney
 * https://www.bing.com/chat
 * https://chat.openai.com
 
+## Activity 1
+
+Sample prompt:
+Create a photo of a man in business attire taking the MRT in the  
+morning surrounded by many green plants.
+
+Sample refinement:
+wrong photo. put the plants outside the MRT in the background.
+
+Sample prompt:
+Create a photo of a man in business attire taking the MRT in the
+morning. The MRT is passing with trees seen throught the windows of
+the MRT. It is a sunny morning.
+
+## Activity 2
+
+Sample prompt:
+Create an image of a drawing of a beautiful day at the beach with
+people swimming in the sea. Use a pastel style to create the drawing.
+
+Sample refinement:
+Create the painting as an oil painting
+
+Sample prompt:
+Create a photo realistic drawing of a beautiful day at the beach with
+people swimming in the sea. Make it detailed and realistic.
 
 ---
 # Topic 3
