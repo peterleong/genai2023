@@ -263,7 +263,27 @@ Sample prompt:<br>
 create a vlog script for a 2 minutes post on bold print trend in beach
 wear
 
+Sample refinement:<br>
+Good. Please modify the vlog script for an e-commerce website selling
+beach wear
 
+## Customer support
+
+Sample Email:<br>
+Dear Sir,
+
+I bought a swimming trunk from your e-commerce site for beach wear.
+The size of the trunk I bought was M size. But, when I received the
+product it was much smaller that I had thought and it could not fit.
+I wish to return the product and get an L size instead.
+
+Thank you,
+TooBig
+
+Sample prompt:<br>
+Help me prepare a response to the following email from my customer
+Mr TooBig.
+<cut-and-paste email here>
 
 
 ---
