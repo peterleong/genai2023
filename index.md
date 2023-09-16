@@ -211,6 +211,23 @@ Sample refinement:<br>
 
 Repeat using chatgpt/bing
 
+## Content Calendar 
+
+* https://chat.openai.com
+
+## Activity
+
+Sample Prompt:<br>
+Based on the following ideal customer profile: your ideal customer is
+likely to be a family or young working professional who loves weekend
+getaways and enjoys swimming, snorkeling, and beach walking. They
+are looking for comfortable and fashionable beachwear that will keep
+them cool and stylish while they are enjoying the beach.
+Help me write a content calendar
+
+
+Repeat using https://bard.google.com
+
 
 
 ---
