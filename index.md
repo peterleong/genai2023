@@ -294,7 +294,11 @@ Mr TooBig.
 ---
 # Topic 6
 
-Reference links
+References
+
+* https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+
+Detectors
 
 * Zero GPT - https://zerogpt.cc  or https://zerogpt.net 
 * GPT Zero - https://gptzero.me/
