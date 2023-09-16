@@ -290,5 +290,11 @@ Mr TooBig.
 # Topic 5
 
 
+
 ---
 # Topic 6
+
+Reference links
+
+* Zero GPT - https://zerogpt.cc  or https://zerogpt.net 
+* GPT Zero - https://gptzero.me/
