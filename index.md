@@ -283,10 +283,13 @@ Thank you,
 TooBig
 ```
 
-Sample prompt:<br>
+Sample prompt: <br>
+
 Help me prepare a response to the following email from my customer
 Mr TooBig.
+
 cut-and-paste email here
+
 
 ---
 # Topic 5
