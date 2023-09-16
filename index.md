@@ -311,6 +311,15 @@ Brainstorm
 Text-to-speech generator
   * https://play.ht/ 
 
+## Activity
+
+Explore some of the raft of generative AI tools,
+especially those relevant to your job tasks.
+* Eg. Creating a FAQ
+* Eg. Creating a Question Bank
+* Eg. Creating Interview Questions
+* Eg. Creating a slides deck for presentations
+
 
 ---
 # Topic 6
