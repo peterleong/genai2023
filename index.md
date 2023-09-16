@@ -18,7 +18,8 @@ Links from slides
 * Timeline - https://voicebot.ai/large-language-models-history-timeline/
 * ChatGPT history - https://www.slideteam.net/chatgpt-it-history-and-evolution-of-openai-research-organization.html
 * ChatGPT vital stats - https://www.stylefactoryproductions.com/blog/chatgpt-statistics
-* 
+* ChatGPT training - https://openai.com/research/instruction-following 
+
 
 Accounts setting links
 * https://accounts.microsoft.com
