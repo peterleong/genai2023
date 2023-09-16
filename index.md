@@ -11,6 +11,8 @@ Examples of Generative AI
 * Make Girls Moe - https://make.girls.moe
 * Playground AI - https://playgroundai.com
 * GPT-3 Playground - https://gpt3demo.com/apps/openai-gpt-3-playground
+* Dall-e 2 - https://openai.com/dall-e-2
+
 
 Links from slides
 * Crowdsourced List of LLMs - https://bit.ly/UsefulLLMs
