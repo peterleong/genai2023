@@ -299,6 +299,7 @@ References
 * https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
 * https://labs.openai.com/policies/content-policy
 * https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework
+* https://www.scs.org.sg/bok/ai-ethics
 
 Detectors
 
