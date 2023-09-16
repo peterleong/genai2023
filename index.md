@@ -289,6 +289,27 @@ Mr TooBig.
 ---
 # Topic 5
 
+* Prompts for marketeers: https://www.greataiprompts.com/chat-gpt/chat-gpt-prompts-for-marketers/
+  
+ChatGPT plug-ins/extensions on browser for url/video summary.
+  * https://chrome.google.com/webstore/detail/chatgpt-%C2%BB-summarize-every/cbgecfllfhmmnknmamkejadjmnmpfjmp?hl=en-GB
+
+Writing, adaptation/version creation for various purposes, etc.
+  * https://chat.openai.com/ Good ol’ ChatGPT.
+  * https://www.notion.so/ Specially for writing. Need to pay.
+
+Presentation
+  * https://tome.app/ Presentation slides generator!
+
+Image generator
+  * https://picfinder.ai/ Free, quick, voluminous number of images generated.
+
+Brainstorm
+  * https://chat.openai.com/ ChatGPT.
+  * https://picfinder.ai/ PicFinder too.
+
+Text-to-speech generator
+  * https://play.ht/ 
 
 
 ---
