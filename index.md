@@ -3,7 +3,7 @@
 
 # Topic 1
 Useful links that we will be using
-* Bard - https://bard.google.com
+* Bard - (https://bard.google.com)
 * Bing - https://www.bing.com/chat
 * ChatGPT - https://chat.openai.com
 
