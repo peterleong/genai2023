@@ -2,8 +2,8 @@
 ---
 # Topic 1
 Useful links that we will be using
-* Bard - https://bard.google.com 
-* Bing - https://www.bing.com
+* Bard - <a href="https://bard.google.com" target="_blank">bard.google.com</a>
+* Bing - https://www.bing.com/chat
 * ChatGPT - https://chat.openai.com
 
 Accounts setting links
