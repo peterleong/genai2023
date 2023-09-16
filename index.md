@@ -270,6 +270,8 @@ beach wear
 ## Customer support
 
 Sample Email:<br>
+
+```
 Dear Sir,
 
 I bought a swimming trunk from your e-commerce site for beach wear.
@@ -279,6 +281,7 @@ I wish to return the product and get an L size instead.
 
 Thank you,
 TooBig
+```
 
 Sample prompt:<br>
 Help me prepare a response to the following email from my customer
