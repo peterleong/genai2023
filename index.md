@@ -48,7 +48,9 @@ Midjourney
 
 ## Text
 
-
+* https://bard.google.com
+* https://www.bing.com/chat
+* https://chat.openai.com
 
 
 ---
