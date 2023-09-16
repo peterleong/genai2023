@@ -129,14 +129,62 @@ Sample refinement:<br>
 Okay. Please give me a more detailed description of each of the
 problem statements above.
 
-* Repeat the above with ChatGPT/Bing
-  * https://www.bing.com/chat
-  * https://chat.openai.com
+Repeat the above with ChatGPT/Bing
+* https://www.bing.com/chat
+* https://chat.openai.com
 
+## Data Collection
+* https://bard.google.com
 
+Sample prompt:<br>
+How can I break up my data strategy of my e-commerce beach
+wear website into categories for planning?
+
+## Generating Sample Data
+
+* https://chat.openai.com
+
+Sample prompt:<br>
+Generate an example of a website traffic dataset with at least
+100 rows over a period of a month
+
+Sample refinement:<br>
+Format as a table
+
+## Data Cleaning and Data Exploration
+
+Sample prompts:<br>
+Are there any missing values in the data?<br>
+Are there duplicate rows in the data?<br>
+Are there outlier values in the data?<br>
+
+## Analyze Data
+
+Sample prompts:<br>
+Which is the top N _______ ?<br>
+which is the top 3 device ?<br>
+Which is the Top Page?<br>
+List counts of Page <br>
+
+## Data Visualization
+
+Sample prompts:<br>
+What is the best visualization to use for the list counts of Page
+
+Sample prompt:<br>
+create the excel macro to create the chart
+
+## Automation
+
+Sample prompt:
+create a python script to open www.google.com in power automate
+desktop and run a query on all statistics of singapore t-bills in 2022.
+use webbrowser
 
 ---
 # Topic 4
+
+
 
 ---
 # Topic 5
