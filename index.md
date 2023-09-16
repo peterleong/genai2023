@@ -1,6 +1,7 @@
 # Generative AI and ChatGPT for Business
 ---
 
+
 # Topic 1
 Useful links that we will be using
 * Bard - https://bard.google.com
