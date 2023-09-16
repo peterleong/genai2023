@@ -31,6 +31,26 @@ Accounts setting links
 ---
 # Topic 2
 
+## Images
+
+Dall-e
+* https://labs.openai.com
+* https://www.bing.com/chat
+* https://www.bing.com/images/create/
+
+Stablity AI
+* https://stability.ai/stable-diffusion/
+* https://dreamstudio.ai/
+* https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+Midjourney
+* https://www.midjourney.com/home/
+
+## Text
+
+
+
+
 ---
 # Topic 3
 
