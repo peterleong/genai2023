@@ -184,6 +184,33 @@ use webbrowser
 ---
 # Topic 4
 
+## Define Your Target Customer
+
+* https://chat.openai.com
+
+Sample prompt:<br>
+I need to define the ideal target customer profile for my e-commerce
+website. ask me follow up questions to help me determine the ideal
+target customer profile.
+
+## Activity
+
+* https://bard.google.com
+
+Sample prompt:<br>
+I need to define the ideal target customer profile for my e-commerce
+website that sells beach wear for men, women and kids. ask me follow
+up questions to help me determine the ideal target customer profile.
+
+Sample refinement:<br>
+* Age range from 3 to 70
+* Mostly families or young working professionals
+* Love weekend getaways
+* Like swimming, snorkeling and beach walking
+* Comfort and fashionable beach wear
+
+Repeat using chatgpt/bing
+
 
 
 ---
