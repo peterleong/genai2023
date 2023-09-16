@@ -3,8 +3,8 @@
 
 # Topic 1
 Useful links that we will be using
-* Bard - https://bard.google.com
-* Bing - https://www.bing.com/chat
+* Bard - [https://bard.google.com]
+* Bing - [https://www.bing.com/chat]
 * ChatGPT - https://chat.openai.com
 
 Examples of Generative AI
