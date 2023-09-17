@@ -326,6 +326,12 @@ especially those relevant to your job tasks.
 * Eg. Creating Interview Questions
 * Eg. Creating a slides deck for presentations
 
+Helpful links on presentation prompts
+* https://aihabit.net/chatgpt-prompts-for-powerpoint/
+* https://www.howtogeek.com/903771/how-to-plan-and-create-a-powerpoint-presentation-with-chatgpt-and-midjourney/
+* https://openai.com/blog/teaching-with-ai
+* https://www.teachfloor.com/blog/create-a-course-using-chatgpt-a-guide-to-ai-course-design
+
 
 ---
 # Topic 6
