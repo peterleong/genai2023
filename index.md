@@ -335,6 +335,7 @@ Teaching with AI
 * https://openai.com/blog/teaching-with-ai
 * https://www.teachfloor.com/blog/create-a-course-using-chatgpt-a-guide-to-ai-course-design
 * https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:unit-teaching-with-ai
+* https://www.turnitin.com/blog/how-to-develop-ai-literacy-amongst-educators-and-students
 
 
 ---
