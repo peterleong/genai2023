@@ -329,6 +329,9 @@ especially those relevant to your job tasks.
 Helpful links on presentation prompts
 * https://aihabit.net/chatgpt-prompts-for-powerpoint/
 * https://www.howtogeek.com/903771/how-to-plan-and-create-a-powerpoint-presentation-with-chatgpt-and-midjourney/
+
+Teaching with AI
+* https://www.weforum.org/agenda/2023/05/ai-accelerate-students-holistic-development-teaching-fulfilling
 * https://openai.com/blog/teaching-with-ai
 * https://www.teachfloor.com/blog/create-a-course-using-chatgpt-a-guide-to-ai-course-design
 
