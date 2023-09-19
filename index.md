@@ -153,8 +153,8 @@ Sample refinement:<br>
 Format as a table
 
 Sample generated data:
-* [Webtraffic.csv](webtraffic.csv)
-* [CreatePageCountsChart.vbscript](CreatePageCountsChart.vbscript)
+* [webtraffic.csv](webtraffic.csv)
+* [CreatePageCountsChart.vbscipt](CreatePageCountsChart.vbscipt)
 
 ## Data Cleaning and Data Exploration
 
