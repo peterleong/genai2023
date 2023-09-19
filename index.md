@@ -152,6 +152,10 @@ Generate an example of a website traffic dataset with at least
 Sample refinement:<br>
 Format as a table
 
+Sample generated data:
+* [Webtraffic.csv]("webtraffic.csv")
+* [CreatePageCountsChart.vbscript]("CreatePageCountsChart.vbscript]")
+
 ## Data Cleaning and Data Exploration
 
 Sample prompts:<br>
